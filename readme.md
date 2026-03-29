@@ -20,3 +20,5 @@ Instructions
 * Change the message and be sure it's 250 characters max
 * You can test your script from the command line: "php api-2-tweet.php"
 * To setup a timed tweet, use cronjob (https://ostechnix.com/a-beginners-guide-to-cron-jobs/)
+
+##THIS CODE NO LONGER WORKS ON X! YOU ARE REQUIRED TO PAY FOR ACCESS NOW!!!!
